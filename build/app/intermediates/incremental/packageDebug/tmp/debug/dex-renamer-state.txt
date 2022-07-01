@@ -1,0 +1,4 @@
+#Wed Jun 29 13:33:51 CEST 2022
+base.0=/Users/kobil/Desktop/testing_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
